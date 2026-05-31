@@ -1,0 +1,18 @@
+title: Youngrok LEE Discographies Preservation Project
+description: ""
+markdown: kramdown
+theme: minima
+
+defaults:
+    - scope:
+          path: ""
+          type: "pages"
+      values:
+          layout: default
+
+plugins:
+    - jekyll-relative-links
+
+relative_links:
+    enabled: true
+    collections: false

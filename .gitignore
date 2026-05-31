@@ -1,0 +1,20 @@
+# Bundler local install path
+.bundle/
+vendor/bundle/
+
+# Local Node preview dependencies
+node_modules/
+
+
+# Jekyll build output and local cache
+Gemfile
+Gemfile.lock
+_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+.jekyll-cache/
+.sass-cache/
+
+# Local environment files
+.env
+.env.*
