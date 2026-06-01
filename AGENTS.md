@@ -18,11 +18,11 @@ Markdown while retaining source provenance and editorial context.
 - Do not add source-path metadata headers such as `Source:` or `Wrapper page:`
   to compiled artist pages unless explicitly requested.
 - Add a composer index near the top, before the discography sections.
-- Split discography tables by composer using level-3 headings, for example
-  `### Beethoven`.
-- Each work starts with a level-4 heading, for example `#### Piano Sonata
+- Split discography tables by composer using level-2 headings, for example
+  `## Beethoven`.
+- Each work starts with a level-3 heading, for example `### Piano Sonata
   No. 1 in F minor, Op. 2 No. 1`.
-- If level-4 headings become unsupported in a target renderer, use bold work
+- If level-3 headings become unsupported in a target renderer, use bold work
   titles as a fallback.
 - Use one recording table per work heading.
 - Recording variants follow the work heading as normal rows in that work's
@@ -39,7 +39,7 @@ Markdown while retaining source provenance and editorial context.
 
 - Group composers by starting letter.
 - Use one line per starting letter.
-- Link composer names to their level-3 composer sections.
+- Link composer names to their level-2 composer sections.
 - Separate names with ` - `.
 - Use the display spelling from the normalized composer heading.
 - If there is only one composer for a letter, still write the letter line.
@@ -72,12 +72,12 @@ Use this compact header row:
 ```
 
 Do not include a `composer` column inside composer tables. The composer is
-supplied by the level-3 heading.
+supplied by the level-2 heading.
 
 Example:
 
 ```markdown
-### Beethoven
+## Beethoven
 
 |  | recording | details | releases |
 | --- | --- | --- | --- |
@@ -86,8 +86,8 @@ Example:
 
 ## Anchors
 
-- Composer anchors come from `### Composer` headings.
-- Work anchors come from `####` work headings, using raw HTML when a stable
+- Composer anchors come from `## Composer` headings.
+- Work anchors come from `###` work headings, using raw HTML when a stable
   custom anchor is needed.
 - Composer and work headings should include a visible leading paragraph-sign
   permalink, for example `[¶](#beethoven) Beethoven`.
