@@ -1,9 +1,10 @@
 # Youngrok Lee Discographies
 
-This repository preserves and publishes discographies gathered by Youngrok Lee, currently available at (Youngrok LEE's Music Page)[http://trmsolutions.co.kr/music/music.htm]
+This repository preserves and publishes discographies gathered by Youngrok Lee, currently available at [Youngrok LEE's Music Page](http://trmsolutions.co.kr/music/music.htm).
 
-The project is intended as an archival reference for discography data collected,
-structured, and maintained for long-term access.
+The compiled discographies are available at [youngrokleesmusicpages.github.io/discographies/](https://youngrokleesmusicpages.github.io/discographies/)
+
+The project is intended as an archival reference for discography data collected, structured, and maintained for long-term access.
 
 ## Scope
 

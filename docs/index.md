@@ -4,7 +4,7 @@ This site preserves and republishes Youngrok LEE's discographies as clean,
 machine-readable Markdown pages.
 
 Each discography page keeps source provenance, editorial notes, composer
-indexes, per-composer tables, and anchors for linking to individual works and
+indexes, per-work tables, and anchors for linking to individual works and
 recording variants.
 
 ## Discographies
