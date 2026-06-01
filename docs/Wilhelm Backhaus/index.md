@@ -1,8 +1,8 @@
-# Wilhelm Backhaus Discography (1)
+# Wilhelm Backhaus Discography
 
 ## Notes
 
-This discography covers Wilhelm Backhaus recordings from Albéniz to Brahms. The original page notes that some discographical information remains incomplete, especially for the 78s era and Decca monaural Beethoven sonatas, and welcomes additional information about broadcast tapes and rare CDs.
+This discography covers Wilhelm Backhaus recordings from Albéniz to Weber. The original sources were split across two pages: part 1, from Albéniz to Brahms, and part 2, from Chabrier to Weber. The source notes that some discographical information remains incomplete, especially for the 78s era and Decca monaural Beethoven sonatas, and welcomes additional information about broadcast tapes and rare CDs.
 
 Album numbers may link to jacket images where the source provides them. Recently available CDs were prioritized in the source. Iron Needle, Enterprise, and similar releases were excluded. Serial-number and abbreviation notes were kept on the source label-notes page.
 
@@ -13,6 +13,32 @@ Special thanks in the source go to Jui-Yuan Yen and Philip Stuart.
 A: [Albéniz](#albeniz)
 
 B: [Bach](#bach) - [Beethoven](#beethoven) - [Brahms](#brahms)
+
+C: [Chabrier](#chabrier) - [Chopin](#chopin)
+
+D: [Daquin](#daquin) - [Debussy](#debussy) - [Delibes](#delibes) - [Dvorák](#dvorak)
+
+F: [Falla](#falla)
+
+G: [Gounod](#gounod) - [Grieg](#grieg)
+
+H: [Händel](#handel) - [Haydn](#haydn)
+
+K: [Kreisler](#kreisler)
+
+L: [Liszt](#liszt)
+
+M: [Mendelssohn](#mendelssohn) - [Moszkowski, Moritz](#moszkowski-moritz) - [Mozart, W. A.](#mozart-w-a) - [Mussorgsky](#mussorgsky)
+
+P: [Pick-Mangiagalli](#pick-mangiagalli)
+
+R: [Rachmaninov](#rachmaninov) - [Rubinstein, Anton](#rubinstein-anton)
+
+S: [Scarlatti, Domenico](#scarlatti-domenico) - [Schubert](#schubert) - [Schumann](#schumann) - [Smetana](#smetana) - [Strauss, R.](#strauss-r)
+
+T: [Tchaikovsky](#tchaikovsky)
+
+W: [Wagner](#wagner) - [Weber](#weber)
 
 ## <a id="albeniz"></a>[¶](#albeniz) Albéniz
 
@@ -552,13 +578,781 @@ B: [Bach](#bach) - [Beethoven](#beethoven) - [Brahms](#brahms)
 | --- | --- | --- | --- |
 | <a id="brahms-from-4-songs-op-70-no-1-im-garten-am-seegestade-no-2-lerchengesang-rec-1"></a>1 | 1930s(?) |  | **78s**: ?<br>**CD**: Enterprise/Piano Library(Ita) 192 |
 
+## <a id="chabrier"></a>[¶](#chabrier) Chabrier
+
+### <a id="chabrier-habanera"></a>[¶](#chabrier-habanera) **Habanera**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chabrier-habanera-rec-1"></a>1 | 1954(or 1956) |  | **LP**: London |
+
+## <a id="chopin"></a>[¶](#chopin) Chopin
+
+### <a id="chopin-piano-concerto-no-2-2nd-mvt-romance-arr-backhaus"></a>[¶](#chopin-piano-concerto-no-2-2nd-mvt-romance-arr-backhaus) **Piano Concerto No. 2, 2nd mvt. Romance(arr. Backhaus)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-piano-concerto-no-2-2nd-mvt-romance-arr-backhaus-rec-1"></a>1 | 1908~20(Welte Mignon) |  | **LP**: The Welte Legacy of piano treasures 702 |
+| <a id="chopin-piano-concerto-no-2-2nd-mvt-romance-arr-backhaus-rec-2"></a>2 | 1925~26 |  | **78s**: ?<br>**CD**: Bellaphon |
+
+### <a id="chopin-piano-sonata-no-2-in-b-flat-minor-op-35-ct-202-funeral-march"></a>[¶](#chopin-piano-sonata-no-2-in-b-flat-minor-op-35-ct-202-funeral-march) **Piano Sonata No. 2 in b flat minor, Op. 35(CT.202) "Funeral March"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-piano-sonata-no-2-in-b-flat-minor-op-35-ct-202-funeral-march-rec-1"></a>1 | Jul. 1950, Victoria Hall, Genève(monaural) | Producer/Engineer ; ?(Victor Olof)/? | **LP**: Decca LXT 2535, London LLP 266 / CM 9048<br>**CD**: Decca 483 4952(15 in 39 set) / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-ballade-no-1-in-g-minor-op-23"></a>[¶](#chopin-ballade-no-1-in-g-minor-op-23) **Ballade No. 1 in g minor, Op. 23**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-ballade-no-1-in-g-minor-op-23-rec-1"></a>1 | Nov. 1950, Victoria Hall, Genève(monaural) | Producer/Engineer ; ?(Victor Olof)/? | **LP**: Decca LX 3044(10") / LW 5026(10"), London LPS 317(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-etudes-op-10-and-25"></a>[¶](#chopin-etudes-op-10-and-25) **Etudes, Op. 10 & 25**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-etudes-op-10-and-25-rec-1"></a>1 | 4,5th Jan.(Op. 10), Jun. & Jul.(Op. 25) 1928, Small Queen's Hall, London | **Note**: The first complete recording of Op. 10 & 25 | **LP**: EMI EX 290345(2 set) / 53-2901001(Italy), Bruno Walter Society IGI-286<br>**CD**: Pearl GEMM CD 9902, APR 6026(1 in 2 set), Toshiba-Shinseido SGR 1504, Andante 2995(4 set)<br>**78s**: Op. 10; HMV DB 1132~34 - Cc 12199-1(No. 1,7), 12403-1(No. 2,3) / 12404-1(No. 4,8), 12405-1(No. 5,6) / 12406-1(No. 9,10), 12407-2 (No. 11,12) Op. 25; HMV DB 1178~80 - Cc 12192-2(No. 1,12), 12193-1(No. 2,11) / 12194-5(No. 3,4,8), 12197-3(No. 5,6) / 12195-5(No. 7), 12198-1 (No. 9,10) |
+
+### <a id="chopin-1-no-1-in-c-major-op-10-1"></a>[¶](#chopin-1-no-1-in-c-major-op-10-1) **1. No. 1 in C major, Op. 10-1**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-1-no-1-in-c-major-op-10-1-rec-1"></a>1 | 1916(acoustic) |  | **78s**: Gramophone 045574, Victor 71044, HMV 05508<br>**CD**: Pearl GEMM CD 0102(2 set; 1925?) |
+| <a id="chopin-1-no-1-in-c-major-op-10-1-rec-2"></a>2 | 2nd Nov. 1925 |  | **78s**: HMV DB 928<br>**CD**: Toshiba-Shinseido SGR 1503 |
+| <a id="chopin-1-no-1-in-c-major-op-10-1-rec-3"></a>3 | 1934 |  | **78s**: HMV DB 2059 |
+
+### <a id="chopin-2-no-2-in-a-minor-op-10-2"></a>[¶](#chopin-2-no-2-in-a-minor-op-10-2) **2. No. 2 in a minor, Op. 10-2**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-2-no-2-in-a-minor-op-10-2-rec-1"></a>1 | 1923 |  | **78s**: Polydor 61875<br>**CD**: Biddulph Piano Series LHW 38 |
+| <a id="chopin-2-no-2-in-a-minor-op-10-2-rec-2"></a>2 | 1925 |  | **78s**: HMV DB 928<br>**CD**: Toshiba-Shinseido SGR 1503 |
+| <a id="chopin-2-no-2-in-a-minor-op-10-2-rec-3"></a>3 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-3-no-3-in-e-major-op-10-3"></a>[¶](#chopin-3-no-3-in-e-major-op-10-3) **3. No. 3 in E major, Op. 10-3**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-3-no-3-in-e-major-op-10-3-rec-1"></a>1 | Jul. 1950, Victoria Hall, Genève(monaural) | Producer/Engineer ; ?(Victor Olof)/? | **78s**: Decca X 353<br>**LP**: Decca LX 3044(10") / NLX 3091(10") / SLA 25036(5 set), London LPS 317(10") / LL 1556 / SLC 8057(JP) / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-4-no-5-in-g-flat-major-op-10-5"></a>[¶](#chopin-4-no-5-in-g-flat-major-op-10-5) **4. No. 5 in G flat major, Op. 10-5**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-4-no-5-in-g-flat-major-op-10-5-rec-1"></a>1 | 19th Feb. 1909 |  | **78s**: HMV 05514<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1501 |
+| <a id="chopin-4-no-5-in-g-flat-major-op-10-5-rec-2"></a>2 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy<br>**Note**: SLC 8057 is not identified whether Op. 10-5 or Op. 25-9. | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / SLC 8057(JP) / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+| <a id="chopin-4-no-5-in-g-flat-major-op-10-5-rec-3"></a>3 | 11th Jun. 1953, Lugano(live, monaural) |  | **CD**: Ermitage ERM 105, Medici Masters MM 006 |
+
+### <a id="chopin-5-no-7-in-c-major-op-10-7"></a>[¶](#chopin-5-no-7-in-c-major-op-10-7) **5. No. 7 in C major, Op. 10-7**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-5-no-7-in-c-major-op-10-7-rec-1"></a>1 | 1913 |  | **78s**: HMV 05553<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="chopin-5-no-7-in-c-major-op-10-7-rec-2"></a>2 | Nov. 1925 |  | **78s**: HMV DB 929<br>**CD**: Toshiba-Shinseido SGR 1503 |
+
+### <a id="chopin-6-no-8-in-f-major-op-10-8-7-no-10-in-a-flat-major-op-10-10"></a>[¶](#chopin-6-no-8-in-f-major-op-10-8-7-no-10-in-a-flat-major-op-10-10) **6. No. 8 in F major, Op. 10-8 7. No. 10 in A flat major, Op. 10-10**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-6-no-8-in-f-major-op-10-8-7-no-10-in-a-flat-major-op-10-10-rec-1"></a>1 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) / UCCD-9081~110(30 set) / UCCD-4467, Ermitage ERM 186-2, Testament SBT 1335 (No. 8), London POCL 9531~60(30 set) |
+
+### <a id="chopin-8-no-12-in-c-minor-op-10-12"></a>[¶](#chopin-8-no-12-in-c-minor-op-10-12) **8. No. 12 in c minor, Op. 10-12**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-8-no-12-in-c-minor-op-10-12-rec-1"></a>1 | Nov. 1925 |  | **78s**: HMV DB 928<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1503 |
+
+### <a id="chopin-9-no-13-in-a-flat-major-op-25-1"></a>[¶](#chopin-9-no-13-in-a-flat-major-op-25-1) **9. No. 13 in A flat major, Op. 25-1**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-9-no-13-in-a-flat-major-op-25-1-rec-1"></a>1 | 19th Feb. 1909 |  | **78s**: HMV 24159, Victor 74159<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="chopin-9-no-13-in-a-flat-major-op-25-1-rec-2"></a>2 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+| <a id="chopin-9-no-13-in-a-flat-major-op-25-1-rec-3"></a>3 | 11th Jun. 1953, Lugano(live, monaural) |  | **CD**: Ermitage ERM 105, Medici Masters MM 006 |
+| <a id="chopin-9-no-13-in-a-flat-major-op-25-1-rec-4"></a>4 | 3rd May 1954, Hibiya Public Hall, Tokyo(live, monaural; Source by Tokyo Broadcast System) |  | **CD**: Toshiba TOCE-8856 |
+
+### <a id="chopin-10-no-14-in-f-minor-op-25-2"></a>[¶](#chopin-10-no-14-in-f-minor-op-25-2) **10. No. 14 in f minor, Op. 25-2**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-10-no-14-in-f-minor-op-25-2-rec-1"></a>1 | 1916(acoustic) |  | **78s**: Polydor 61875<br>**CD**: Biddulph Piano Series LHW 38 |
+| <a id="chopin-10-no-14-in-f-minor-op-25-2-rec-2"></a>2 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+| <a id="chopin-10-no-14-in-f-minor-op-25-2-rec-3"></a>3 | 11th Jun. 1953, Lugano(live, monaural) |  | **CD**: Ermitage ERM 105, Medici Masters MM 006 |
+| <a id="chopin-10-no-14-in-f-minor-op-25-2-rec-4"></a>4 | 30th Mar. 1954, Carnegie Hall, New York(live, monaural) | **Note**: played as encore at this recital. In [London POCL-3479~80](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#Misc2)(2 set), this performance is excluded. | **LP**: Decca SLA 25036(5 set), London LL 1108(2 set) / K18C 9465(JP)<br>**CD**: Decca 483 4952(37 in 39 set) [NEW] / DD 5976(2 set), Philips[456 718-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#GP)(2 set) / [462 699-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#GP)(2 set; sampler) / PHCP 20505(2 set) |
+| <a id="chopin-10-no-14-in-f-minor-op-25-2-rec-5"></a>5 | 1956, Carnegie Hall, New York(live, monaural) | **Note**: Encore at this concert | **CD**: Profil PH 07006 |
+
+### <a id="chopin-11-no-15-in-f-major-op-25-3"></a>[¶](#chopin-11-no-15-in-f-major-op-25-3) **11. No. 15 in F major, Op. 25-3**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-11-no-15-in-f-major-op-25-3-rec-1"></a>1 | 1916(acoustic) |  | **78s**: Polydor 61875<br>**CD**: Biddulph Piano Series LHW 38 |
+| <a id="chopin-11-no-15-in-f-major-op-25-3-rec-2"></a>2 | 2nd Nov. 1925 |  | **78s**: HMV DB 928 |
+| <a id="chopin-11-no-15-in-f-major-op-25-3-rec-3"></a>3 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+| <a id="chopin-11-no-15-in-f-major-op-25-3-rec-4"></a>4 | 11th Jun. 1953, Lugano(live, monaural) |  | **CD**: Ermitage ERM 105, Medici Masters MM 006 |
+
+### <a id="chopin-12-no-18-in-g-sharp-minor-op-25-6"></a>[¶](#chopin-12-no-18-in-g-sharp-minor-op-25-6) **12. No. 18 in g sharp minor, Op. 25-6**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-12-no-18-in-g-sharp-minor-op-25-6-rec-1"></a>1 | 19th Feb. 1909 |  | **78s**: HMV 24159, Victor 74159<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="chopin-12-no-18-in-g-sharp-minor-op-25-6-rec-2"></a>2 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467 Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+| <a id="chopin-12-no-18-in-g-sharp-minor-op-25-6-rec-3"></a>3 | 11th Jun. 1953, Lugano(live, monaural) |  | **CD**: Ermitage ERM 105, Medici Masters MM 006 |
+
+### <a id="chopin-13-no-19-in-c-sharp-minor-op-25-7"></a>[¶](#chopin-13-no-19-in-c-sharp-minor-op-25-7) **13. No. 19 in c sharp minor, Op. 25-7**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-13-no-19-in-c-sharp-minor-op-25-7-rec-1"></a>1 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-14-no-20-in-d-flat-major-op-25-8-15-no-21-in-g-flat-major-op-25-9"></a>[¶](#chopin-14-no-20-in-d-flat-major-op-25-8-15-no-21-in-g-flat-major-op-25-9) **14. No. 20 in D flat major, Op. 25-8 15. No. 21 in G flat major, Op. 25-9**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-14-no-20-in-d-flat-major-op-25-8-15-no-21-in-g-flat-major-op-25-9-rec-1"></a>1 | 19th Feb. 1909 |  | **78s**: HMV 05514<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1501 |
+| <a id="chopin-14-no-20-in-d-flat-major-op-25-8-15-no-21-in-g-flat-major-op-25-9-rec-2"></a>2 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+| <a id="chopin-14-no-20-in-d-flat-major-op-25-8-15-no-21-in-g-flat-major-op-25-9-rec-3"></a>3 | 11th Jun. 1953, Lugano(live, monaural) |  | **CD**: Ermitage ERM 105, Medici Masters MM 006 |
+
+### <a id="chopin-16-no-23-in-a-minor-op-25-11"></a>[¶](#chopin-16-no-23-in-a-minor-op-25-11) **16. No. 23 in a minor, Op. 25-11**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-16-no-23-in-a-minor-op-25-11-rec-1"></a>1 | 1916(Acoustic) |  | **78s**: Gramophone 045575<br>**CD**: Biddulph Piano Series LHW 38 |
+| <a id="chopin-16-no-23-in-a-minor-op-25-11-rec-2"></a>2 | 1923 |  | **78s**: Polydor 65463 |
+| <a id="chopin-16-no-23-in-a-minor-op-25-11-rec-3"></a>3 | Oct. 1952, Victoria Hall, Genève(monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca NLX 3091(10") / SLA 25036(5 set), London LS 704(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-fantasy-impromtu-in-c-sharp-minor-op-66"></a>[¶](#chopin-fantasy-impromtu-in-c-sharp-minor-op-66) **Fantasy-Impromtu in c sharp minor, Op. 66**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-fantasy-impromtu-in-c-sharp-minor-op-66-rec-1"></a>1 | 29th Sep. 1908, Room 1, Hayes, England |  | **78s**: Gramophone Monarch W280, O35517 / 2654f<br>**CD**: Pearl GEMM CD 0102(2 set), Andante 2995(4 set) |
+| <a id="chopin-fantasy-impromtu-in-c-sharp-minor-op-66-rec-2"></a>2 | Oct. 1933 |  | **78s**: HMV DB 2059<br>**LP**: Parnassus 3(date not iden.)<br>**CD**: Pearl GEMM CD 9902, APR 6026(1 in 2 set) [NEW], Toshiba-Shinseido SGR 1504 |
+
+### <a id="chopin-mazurkas-1-no-17-in-b-flat-minor-op-24-4-2-no-20-in-d-flat-major-op-30-3-3-no-24-in-c-major-op-33-3"></a>[¶](#chopin-mazurkas-1-no-17-in-b-flat-minor-op-24-4-2-no-20-in-d-flat-major-op-30-3-3-no-24-in-c-major-op-33-3) **Mazurkas 1. No. 17 in B flat minor, Op. 24-4 2. No. 20 in D flat major, Op. 30-3 3. No. 24 in C major, Op. 33-3**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-mazurkas-1-no-17-in-b-flat-minor-op-24-4-2-no-20-in-d-flat-major-op-30-3-3-no-24-in-c-major-op-33-3-rec-1"></a>1 | Jul. & Nov.(Op. 24-4) 1950, Victoria Hall, Genève(monaural) | Producer/Engineer ; ?(Victor Olof)/? | **LP**: Decca LX 3044(10") / LW 5026(10"), London LPS 317(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-prelude-no-1-in-c-major-op-28-1"></a>[¶](#chopin-prelude-no-1-in-c-major-op-28-1) **Prelude No. 1 in C major, Op. 28-1**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-prelude-no-1-in-c-major-op-28-1-rec-1"></a>1 | 1908 |  | **78s**: Gramophone W 279, Victor 71045, HMV 05508<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="chopin-prelude-no-1-in-c-major-op-28-1-rec-2"></a>2 | 1926 |  | **78s**: HMV DB 928<br>**CD**: Pearl GEMM CD 9902, Toshiba-Shinseido SGR 1504 |
+| <a id="chopin-prelude-no-1-in-c-major-op-28-1-rec-3"></a>3 | 1933 |  | **78s**: HMV DB 2059<br>**CD**: APR 6026(1 in 2 set) [NEW], Shinseido |
+
+### <a id="chopin-berceuse-in-d-flat-major-op-57-b-154"></a>[¶](#chopin-berceuse-in-d-flat-major-op-57-b-154) **Berceuse in D flat major, Op. 57(B.154)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-berceuse-in-d-flat-major-op-57-b-154-rec-1"></a>1 | 1926 |  | **78s**: HMV DB 1033<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="chopin-berceuse-in-d-flat-major-op-57-b-154-rec-2"></a>2 | 4th Jan. 1928, Small Queen's Hall, London |  | **78s**: HMV DB 1131 - Cc 12191-2<br>**CD**: Pearl GEMM CD 9902, Toshiba-Shinseido SGR 1504, Andante 2995(4 set), APR 6026(1 in 2 set) [NEW] |
+
+### <a id="chopin-waltz-1-no-1-in-e-flat-major-op-18-grande-valse-brillante"></a>[¶](#chopin-waltz-1-no-1-in-e-flat-major-op-18-grande-valse-brillante) **Waltz — 1. No. 1 in E flat major, Op. 18 'Grande valse brillante'**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-waltz-1-no-1-in-e-flat-major-op-18-grande-valse-brillante-rec-1"></a>1 | Jun. 1928 |  | **78s**: HMV DB 1131 - Cc 12196-2 [NEW]<br>**CD**: Pearl GEMM CD 9902, Toshiba-Shinseido SGR 1504, APR 6026(1 in 2 set) [NEW] |
+| <a id="chopin-waltz-1-no-1-in-e-flat-major-op-18-grande-valse-brillante-rec-2"></a>2 | 11th Jun. 1953, Lugano(live, monaural?) |  | **CD**: Ermitage ERM 105, Aura Classics AUR 119 |
+
+### <a id="chopin-waltz-2-no-2-in-a-flat-major-op-34-1-grande-valse-brillante"></a>[¶](#chopin-waltz-2-no-2-in-a-flat-major-op-34-1-grande-valse-brillante) **Waltz — 2. No. 2 in A flat major, Op. 34-1 "Grande Valse Brillante"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-waltz-2-no-2-in-a-flat-major-op-34-1-grande-valse-brillante-rec-1"></a>1 | Nov.(or Jul.) 1950, Victoria Hall, Genève(monaural) |  | **LP**: Decca LX 3044(10"), London LPS 317(10") / LL 1556 / K18C 9463(JP) / MZ-5127(JP)<br>**CD**: Decca 483 4952(15 in 39 set) [NEW] / UCCD-9081~110(30 set) / UCCD-4467, Testament SBT 1335, Ermitage ERM 186-2, London POCL 9531~60(30 set) |
+
+### <a id="chopin-waltz-3-no-5-in-a-flat-major-op-42-b-131"></a>[¶](#chopin-waltz-3-no-5-in-a-flat-major-op-42-b-131) **Waltz — 3. No. 5 in A flat major, Op. 42(B.131)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-waltz-3-no-5-in-a-flat-major-op-42-b-131-rec-1"></a>1 | 1910 |  | **78s**: HMV 05533<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="chopin-waltz-3-no-5-in-a-flat-major-op-42-b-131-rec-2"></a>2 | 1924 |  | **78s**: HMV D 73 / D 888<br>**CD**: Pearl GEMM CD 0102(2 set) |
+
+### <a id="chopin-waltz-3-no-6-in-d-flat-major-op-64-1-minute"></a>[¶](#chopin-waltz-3-no-6-in-d-flat-major-op-64-1-minute) **Waltz — 3. No. 6 in D flat major, Op. 64-1 "Minute"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-waltz-3-no-6-in-d-flat-major-op-64-1-minute-rec-1"></a>1 | 1910(1913?) |  | **78s**: G&T<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="chopin-waltz-3-no-6-in-d-flat-major-op-64-1-minute-rec-2"></a>2 | 1916(Acoustic 78s) |  | **78s**: ?<br>**CD**: Biddulph Piano Series LHW 38 |
+| <a id="chopin-waltz-3-no-6-in-d-flat-major-op-64-1-minute-rec-3"></a>3 | 1923 |  | **78s**: Polydor 61875 |
+| <a id="chopin-waltz-3-no-6-in-d-flat-major-op-64-1-minute-rec-4"></a>4 | 1926(25?) |  | **78s**: HMV DB 929<br>**CD**: Pearl GEMM CD 9902, APR 6026(1 in 2 set) [NEW], Toshiba-Shinseido SGR 1504 |
+
+### <a id="chopin-waltz-4-no-11-in-g-flat-major-op-70-1-b-92"></a>[¶](#chopin-waltz-4-no-11-in-g-flat-major-op-70-1-b-92) **Waltz — 4. No. 11 in G flat major, Op. 70-1(B.92)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-waltz-4-no-11-in-g-flat-major-op-70-1-b-92-rec-1"></a>1 | 1910 |  | **78s**: HMV 05543<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1503 |
+
+### <a id="chopin-waltz-5-no-14-in-e-minor-op-posth-b-56"></a>[¶](#chopin-waltz-5-no-14-in-e-minor-op-posth-b-56) **Waltz — 5. No. 14 in e minor, Op. posth(B.56)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-waltz-5-no-14-in-e-minor-op-posth-b-56-rec-1"></a>1 | 1910 |  | **78s**: HMV 05543<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1503 |
+
+### <a id="chopin-nocturne-no-8-in-d-flat-major-op-27-2-b-96"></a>[¶](#chopin-nocturne-no-8-in-d-flat-major-op-27-2-b-96) **Nocturne No. 8 in D flat major, Op. 27-2(B.96)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-nocturne-no-8-in-d-flat-major-op-27-2-b-96-rec-1"></a>1 | 11th Jun. 1953, Lugano(live, monaural) |  | **CD**: Aura Classics(Ita) 119, Ermitage ERM 105 |
+
+### <a id="chopin-polonaise-no-3-in-a-major-op-40-1-military"></a>[¶](#chopin-polonaise-no-3-in-a-major-op-40-1-military) **Polonaise No. 3 in A major, Op. 40-1 "Military"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-polonaise-no-3-in-a-major-op-40-1-military-rec-1"></a>1 | 1916(Acoustic 78s) |  | **78s**: Gramophone 045574<br>**CD**: Biddulph Piano Series LHW 38 |
+| <a id="chopin-polonaise-no-3-in-a-major-op-40-1-military-rec-2"></a>2 | 1923 |  | **78s**: Polydor 65463 |
+
+### <a id="chopin-polonaise-no-6-in-a-flat-major-op-53-b-147-heroic-abridged"></a>[¶](#chopin-polonaise-no-6-in-a-flat-major-op-53-b-147-heroic-abridged) **Polonaise No. 6 in A flat major, Op. 53(B.147) "Heroic"(abridged)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="chopin-polonaise-no-6-in-a-flat-major-op-53-b-147-heroic-abridged-rec-1"></a>1 | 1924 |  | **78s**: HMV D 888<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1503 |
+
+## <a id="daquin"></a>[¶](#daquin) Daquin
+
+### <a id="daquin-le-coucou"></a>[¶](#daquin-le-coucou) **Le Coucou**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="daquin-le-coucou-rec-1"></a>1 | 1908 |  | **78s**: Victor 20203 |
+
+## <a id="debussy"></a>[¶](#debussy) Debussy
+
+### <a id="debussy-clair-de-lune-from-suite-bergamasque-marche-ecossaise"></a>[¶](#debussy-clair-de-lune-from-suite-bergamasque-marche-ecossaise) **Clair de lune(from Suite Bergamasque) Marche ecossaise**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="debussy-clair-de-lune-from-suite-bergamasque-marche-ecossaise-rec-1"></a>1 | Oct. 1955 |  | **LP**: Decca |
+
+## <a id="delibes"></a>[¶](#delibes) Delibes
+
+### <a id="delibes-la-source-naila-waltz-arr-by-e-v-dohnanyi"></a>[¶](#delibes-la-source-naila-waltz-arr-by-e-v-dohnanyi) **La source; Naila-Waltz(arr. by E. v. Dohnányi)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="delibes-la-source-naila-waltz-arr-by-e-v-dohnanyi-rec-1"></a>1 | 1908~20 |  | **78s**: Duo-Art Piano roll<br>**LP**: CBS 25AC 245(JP)<br>**CD**: Toshiba-Shinseido SGR 1501 |
+| <a id="delibes-la-source-naila-waltz-arr-by-e-v-dohnanyi-rec-2"></a>2 | 1922~23 |  | **78s**: Duo-Art Piano roll<br>**CD**: Fone(Ita) 9011 |
+| <a id="delibes-la-source-naila-waltz-arr-by-e-v-dohnanyi-rec-3"></a>3 | 2nd Nov. 1925, Studio A, Hayes, England |  | **78s**: HMV DB 926 / CC 7153-2<br>**CD**: Pearl GEMM CD 0102(2CD set; date unidentified), APR 6026(1 in 2 set) [NEW], Andante 2995(4 set) |
+| <a id="delibes-la-source-naila-waltz-arr-by-e-v-dohnanyi-rec-4"></a>4 | 1927 |  | **78s**: (HMV?)<br>**CD**: Toshiba-Shinseido SGR 1501 |
+
+## <a id="dvorak"></a>[¶](#dvorak) Dvorák
+
+### <a id="dvorak-humoresque-number-not-specified"></a>[¶](#dvorak-humoresque-number-not-specified) **Humoresque (number not specified)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="dvorak-humoresque-number-not-specified-rec-1"></a>1 | 1908 |  | **78s**: Victor 20203 |
+
+## <a id="falla"></a>[¶](#falla) Falla
+
+### <a id="falla-danza-espanola"></a>[¶](#falla-danza-espanola) **Danza Espanola**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="falla-danza-espanola-rec-1"></a>1 | 1954(or 1956) |  | **LP**: Decca |
+
+## <a id="gounod"></a>[¶](#gounod) Gounod
+
+### <a id="gounod-faust-waltz"></a>[¶](#gounod-faust-waltz) **Faust Waltz**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="gounod-faust-waltz-rec-1"></a>1 | 1908~20 |  | **78s**: DEA Piano roll<br>**CD**: Abacca 001 |
+
+## <a id="grieg"></a>[¶](#grieg) Grieg
+
+### <a id="grieg-piano-concerto-in-a-minor-op-16"></a>[¶](#grieg-piano-concerto-in-a-minor-op-16) **Piano Concerto in a minor, Op. 16**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="grieg-piano-concerto-in-a-minor-op-16-rec-1"></a>1 | 1910(abridged) |  | **78s**: HMV 05523~24, Gramophone 045520<br>**CD**: Simax, Pearl GEMM CD 0102(2CD set; 1 & 3rd mvt.)<br>**Other**: with Landon Ronald / New Symphony Orchestra of London |
+| <a id="grieg-piano-concerto-in-a-minor-op-16-rec-2"></a>2 | 23th Oct. 1933, Studio No. 1, Abbey Road, London |  | **78s**: HMV DB 2074~76 / DB 7560~62(auto) [NEW] - 2B 4693~98(-3,-2,-2,-2,-1,-1)<br>**CD**: Toshiba-Shinseido SGR 1508, Andante 2995(4 set)<br>**Other**: with John Barbirolli / New Symphony Orchestra of London |
+
+### <a id="grieg-3-pictures-from-life-in-the-country-op-19-no-2-the-bridal-procession-passes"></a>[¶](#grieg-3-pictures-from-life-in-the-country-op-19-no-2-the-bridal-procession-passes) **3 Pictures from life in the country, Op. 19; No. 2, The bridal procession passes**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="grieg-3-pictures-from-life-in-the-country-op-19-no-2-the-bridal-procession-passes-rec-1"></a>1 | 1908 |  | **78s**: Gramophone 035513 / 2651f, Victor 71042, HMV 05506<br>**CD**: Pearl GEMM CD 0102(2CD set), [Simax(Nor) 1809](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#Grieg)(3 set), Toshiba-Shinseido SGR 1501 |
+
+## <a id="handel"></a>[¶](#handel) Händel
+
+### <a id="handel-suite-for-harpsichord-in-e-major-hwv-430-no-4-air-and-variations-harmonious-blacksmith"></a>[¶](#handel-suite-for-harpsichord-in-e-major-hwv-430-no-4-air-and-variations-harmonious-blacksmith) **Suite for harpsichord in E major, HWV 430: No. 4, Air and Variations "Harmonious Blacksmith"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="handel-suite-for-harpsichord-in-e-major-hwv-430-no-4-air-and-variations-harmonious-blacksmith-rec-1"></a>1 | 1908 |  | **78s**: Victor 88160, HMV 05509<br>**CD**: Pearl GEMM CD 0102(2CD set), Toshiba-Shinseido SGR 1501 |
+
+## <a id="haydn"></a>[¶](#haydn) Haydn
+
+### <a id="haydn-piano-sonata-no-34-in-e-minor-hob-xvi-34"></a>[¶](#haydn-piano-sonata-no-34-in-e-minor-hob-xvi-34) **Piano Sonata No. 34 in e minor, Hob. XVI-34**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="haydn-piano-sonata-no-34-in-e-minor-hob-xvi-34-rec-1"></a>1 | 1~4th Apr. 1958, Victoria Hall, Genève | Producer/Engineer ; James Walker/James Timms(monaural), Roy G. Wallace(stereo)<br>**Note**: 433 901-2's data is 1957, while P. Stuart's Decca catalog says (1~23rd) Apr. 1958. No SXL issue. CS 6060 is earliest stereo issue. | **LP**: Decca LXT 5457 / ECS 692, London CS 6060 / STS 15041<br>**CD**: Decca 433 901-2 / 483 4952(31 in 39 set) [NEW] / UCCD 9170 / UCCD-9081~110(30 set), London F30L 20172 / POCL-3250 / POCL 9531~60(30 set), Forgotten Records FR 313(monaural) |
+
+### <a id="haydn-piano-sonata-no-48-in-c-major-hob-xvi-48"></a>[¶](#haydn-piano-sonata-no-48-in-c-major-hob-xvi-48) **Piano Sonata No. 48 in C major, Hob. XVI-48**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="haydn-piano-sonata-no-48-in-c-major-hob-xvi-48-rec-1"></a>1 | 1~4th Apr. 1958, Victoria Hall, Genève | Producer/Engineer ; James Walker/James Timms(monaural), Roy G. Wallace(stereo)<br>**Note**: 433 901-2's data is 1957, while P. Stuart's Decca catalog says (1~23rd) Apr. 1958. No SXL issue. CS 6060 is earliest stereo issue. | **LP**: Decca LXT 5457 / ECS 692, London CS 6060 / STS 15041<br>**CD**: Decca 433 900-2 / 483 4952(31 in 39 set) [NEW] / UCCD 9170 / UCCD-9081~110(30 set), London F30L 20172 / POCL-3250 / POCL 9531~60(30 set), Forgotten Records FR 313(monaural) |
+
+### <a id="haydn-piano-sonata-no-52-in-e-flat-major-hob-xvi-52"></a>[¶](#haydn-piano-sonata-no-52-in-e-flat-major-hob-xvi-52) **Piano Sonata No. 52 in E flat major, Hob. XVI-52**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="haydn-piano-sonata-no-52-in-e-flat-major-hob-xvi-52-rec-1"></a>1 | 1~4th Apr. 1958, Victoria Hall, Genève | Producer/Engineer ; James Walker/James Timms(monaural), Roy G. Wallace(stereo)<br>**Note**: 433 901-2's data is 1957, while P. Stuart's Decca catalog says (1~23rd) Apr. 1958. No SXL issue. CS 6060 is earliest stereo issue. | **LP**: Decca LXT 5457 / ECS 692, London CS 6060 / STS 15041<br>**CD**: Decca 433 900-2 / 483 4952(31 in 39 set) [NEW] / UCCD 9170 / UCCD-9081~110(30 set), London F30L 20172 / POCL-3250 / POCL 9531~60(30 set), Forgotten Records FR 313(monaural) |
+| <a id="haydn-piano-sonata-no-52-in-e-flat-major-hob-xvi-52-rec-2"></a>2 | 18th May 1960, Lugano(live) |  | **CD**: Aura Classics(Ita) 119, Ermitage ERM 105 |
+
+### <a id="haydn-fantasia-for-piano-in-c-major-hob-xvi-4"></a>[¶](#haydn-fantasia-for-piano-in-c-major-hob-xvi-4) **Fantasia for Piano in C major, Hob. XVI-4**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="haydn-fantasia-for-piano-in-c-major-hob-xvi-4-rec-1"></a>1 | 1~4th Apr. 1958, Victoria Hall, Genève | Producer/Engineer ; James Walker/James Timms(monaural), Roy G. Wallace(stereo)<br>**Note**: 433 901-2's data is 1957, while P. Stuart's Decca catalog says (1~23rd) Apr. 1958. No SXL issue. CS 6060 is earliest stereo issue. | **LP**: Decca LXT 5457 / 411 695-1(2 set) / ECS 692, London CS 6060 / STS 15041<br>**CD**: Decca 433 901-2 / 483 4952(31 in 39 set) [NEW] / UCCD 9170 / UCCD-9081~110(30 set), London F30L 20172 / POCL-3250 / POCL 9531~60(30 set), Forgotten Records FR 313(monaural)<br>**Other**: 45s ; Decca SEC 5062 |
+| <a id="haydn-fantasia-for-piano-in-c-major-hob-xvi-4-rec-2"></a>2 | 18th May 1960, Lugano(live) |  | **CD**: Aura Classics(Ita) 119, Ermitage ERM 105 |
+
+### <a id="haydn-andante-con-variazioni-in-f-minor-hob-xvi-6"></a>[¶](#haydn-andante-con-variazioni-in-f-minor-hob-xvi-6) **Andante con variazioni in f minor, Hob. XVI-6**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="haydn-andante-con-variazioni-in-f-minor-hob-xvi-6-rec-1"></a>1 | 1~4th Apr. 1958, Victoria Hall, Genève | Producer/Engineer ; James Walker/James Timms(monaural), Roy G. Wallace(stereo)<br>**Note**: 433 901-2's data is 1957, while P. Stuart's Decca catalog says (1~23rd) Apr. 1958. No SXL issue. CS 6060 is earliest stereo issue. | **LP**: Decca LXT 5457 / 411 695-1(2 set) / ECS 692, London CS 6060 / STS 15041<br>**CD**: Decca 433 901-2 / 483 4952(31 in 39 set) [NEW] / UCCD 9170 / UCCD-9081~110(30 set), London F30L 20172 / POCL-3250 / POCL 9531~60(30 set), Forgotten Records FR 313(monaural) |
+| <a id="haydn-andante-con-variazioni-in-f-minor-hob-xvi-6-rec-2"></a>2 | 18th May 1960, Lugano(live) |  | **CD**: Aura Classics(Ita) 119, Ermitage ERM 105 |
+
+## <a id="kreisler"></a>[¶](#kreisler) Kreisler
+
+### <a id="kreisler-liebesleid-arr-rachmaninov"></a>[¶](#kreisler-liebesleid-arr-rachmaninov) **Liebesleid(arr. Rachmaninov)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="kreisler-liebesleid-arr-rachmaninov-rec-1"></a>1 | 1925~26 |  | **78s**: Duo Art Piano roll<br>**CD**: Bellaphon, Fone(Ita) 9011 |
+
+## <a id="liszt"></a>[¶](#liszt) Liszt
+
+### <a id="liszt-2-etudes-de-concert-s-145-1-waldesrauschen-2-gnomenreigen"></a>[¶](#liszt-2-etudes-de-concert-s-145-1-waldesrauschen-2-gnomenreigen) **2 Etudes de concert, S.145 1. Waldesrauschen 2. Gnomenreigen**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-2-etudes-de-concert-s-145-1-waldesrauschen-2-gnomenreigen-rec-1"></a>1 | Nov. 1925(No. 2) |  | **78s**: HMV DB 929<br>**CD**: Pearl GEMM CD 9902, APR 6026(2 in 2 set) [NEW], Toshiba-Shinseido SGR 1501 |
+
+### <a id="liszt-3-etudes-de-concert-s-144-1-il-lamento-2-la-leggierezza-3-un-sospiro"></a>[¶](#liszt-3-etudes-de-concert-s-144-1-il-lamento-2-la-leggierezza-3-un-sospiro) **3 Etudes de concert, S.144 1. Il lamento 2. La leggierezza 3. Un sospiro**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-3-etudes-de-concert-s-144-1-il-lamento-2-la-leggierezza-3-un-sospiro-rec-1"></a>1 | Mar. 1926(No. 2) |  | **78s**: Duo Art Piano roll<br>**CD**: Bellaphon |
+
+### <a id="liszt-transcendental-etude-no-3-in-a-flat-minor-after-paganini-la-campanella"></a>[¶](#liszt-transcendental-etude-no-3-in-a-flat-minor-after-paganini-la-campanella) **Transcendental etude No. 3 in a flat minor, after Paganini "La campanella"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-transcendental-etude-no-3-in-a-flat-minor-after-paganini-la-campanella-rec-1"></a>1 | 1908 |  | **78s**: Gramophone 035514, HMV 05507<br>**CD**: Pearl GEMM CD 0102(2 set) |
+
+### <a id="liszt-liebestraume-in-a-flat-major-s-541-no-3-o-lieb-so-lang"></a>[¶](#liszt-liebestraume-in-a-flat-major-s-541-no-3-o-lieb-so-lang) **Liebesträume in A flat major, S.541: No. 3, O Lieb, so lang**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-liebestraume-in-a-flat-major-s-541-no-3-o-lieb-so-lang-rec-1"></a>1 | 29th Sep. 1908, Room 1, Hayes, England |  | **78s**: Gramophone Monarch 05505, O35512 / 2598f<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1501, Andante 2995(4 set) |
+| <a id="liszt-liebestraume-in-a-flat-major-s-541-no-3-o-lieb-so-lang-rec-2"></a>2 | 1924 |  | **78s**: HMV D 788<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="liszt-liebestraume-in-a-flat-major-s-541-no-3-o-lieb-so-lang-rec-3"></a>3 | Nov. 1925 | **Note**: EMI set is not identified yet whether 1925 or 1923 recording | **78s**: HMV DB 926<br>**CD**: EMI CMS 5 66182 2(11 set), APR 6026(2 in 2 set) [NEW], Toshiba-Shinseido SGR 1501 |
+
+### <a id="liszt-hungarian-rhapsody-s-244-2-in-c-sharp-minor-abridged"></a>[¶](#liszt-hungarian-rhapsody-s-244-2-in-c-sharp-minor-abridged) **Hungarian Rhapsody S.244-2, in c sharp minor(abridged)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-hungarian-rhapsody-s-244-2-in-c-sharp-minor-abridged-rec-1"></a>1 | 1910 |  | **78s**: HMV 05545~46<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="liszt-hungarian-rhapsody-s-244-2-in-c-sharp-minor-abridged-rec-2"></a>2 | 1925 |  | **78s**: HMV D 519 |
+| <a id="liszt-hungarian-rhapsody-s-244-2-in-c-sharp-minor-abridged-rec-3"></a>3 | Feb. 1927 |  | **78s**: (HMV?)<br>**CD**: Toshiba-Shinseido SGR 1501, APR 6026(2 in 2 set) [NEW] |
+| <a id="liszt-hungarian-rhapsody-s-244-2-in-c-sharp-minor-abridged-rec-4"></a>4 | 4th Jan. 1928, Small Queen's Hall, London | **Note**: 3) & 4) may be from the same source. | **78s**: HMV DB 1013 / CR 952-1A, 953-1<br>**CD**: Andante 2995(4 set) |
+
+### <a id="liszt-hungarian-rhapsody-no-12-in-c-sharp-minor-s-244-12"></a>[¶](#liszt-hungarian-rhapsody-no-12-in-c-sharp-minor-s-244-12) **Hungarian Rhapsody No. 12 in c sharp minor, S.244-12**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-hungarian-rhapsody-no-12-in-c-sharp-minor-s-244-12-rec-1"></a>1 | 1916(Acoustic 78s) |  | **CD**: Biddulph Piano Series LHW 38 |
+| <a id="liszt-hungarian-rhapsody-no-12-in-c-sharp-minor-s-244-12-rec-2"></a>2 | 1923 |  | **78s**: Polydor 65287 |
+
+### <a id="liszt-from-mendelssohn-s-a-midsummer-night-s-dream-1-wedding-march"></a>[¶](#liszt-from-mendelssohn-s-a-midsummer-night-s-dream-1-wedding-march) **from Mendelssohn's "A Midsummer Night's dream" ? 1. Wedding March**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-from-mendelssohn-s-a-midsummer-night-s-dream-1-wedding-march-rec-1"></a>1 | 1925~26 |  | **78s**: Duo Art Piano roll<br>**CD**: Bellaphon |
+
+### <a id="liszt-horch-horch-die-lerchen-original-schubert"></a>[¶](#liszt-horch-horch-die-lerchen-original-schubert) **Horch! Horch! Die Lerchen~ (original; Schubert)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-horch-horch-die-lerchen-original-schubert-rec-1"></a>1 | 1910 |  | **78s**: HMV 05550<br>**CD**: Pearl GEMM CD 0102(2 set) |
+
+### <a id="liszt-soiree-de-vienne-in-a-major-s-427-6-from-9-valses-caprices-original-schubert-s-wiener-damen-landler-d-724"></a>[¶](#liszt-soiree-de-vienne-in-a-major-s-427-6-from-9-valses-caprices-original-schubert-s-wiener-damen-landler-d-724) **Soirée de Vienne in A major, S.427-6(from 9 Valses Caprices) (original; Schubert's 'Wiener-Damen Ländler, D. 724)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-soiree-de-vienne-in-a-major-s-427-6-from-9-valses-caprices-original-schubert-s-wiener-damen-landler-d-724-rec-1"></a>1 | 27th Jan. 1936, EMI Studio No. 3, Abbey Road, London |  | **78s**: HMV DB 2809 - 2EA 3025-2<br>**CD**: Andante 2295(4 set), APR 6026(2 in 2 set) [NEW] |
+| <a id="liszt-soiree-de-vienne-in-a-major-s-427-6-from-9-valses-caprices-original-schubert-s-wiener-damen-landler-d-724-rec-2"></a>2 | 30th Mar. 1954, Carnegie Hall, New York(live, monaural) | **Note**: played as encore at this recital. | **LP**: Decca SLA 25036(5 set) / K18C 9465(JP)<br>**CD**: Decca 483 4952(37 in 39 set) [NEW] / UCCD 9183(2 set) / DD 5976(2 set), Philips [456 718-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#GP)(2 set) / PHCP 20505(2 set), London [POCL-3479~80](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#Misc2)(2 set) / POCL 9939~40(2 set) |
+| <a id="liszt-soiree-de-vienne-in-a-major-s-427-6-from-9-valses-caprices-original-schubert-s-wiener-damen-landler-d-724-rec-3"></a>3 | Nov. 1956, Victoria Hall, Genève | Producer/Engineer ; James Walker/Gil Went(monaural), James Brown(stereo) | **CD**: Decca [433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(35 in 39 set) [NEW], London POCL 9531~60(30 set) |
+
+### <a id="liszt-widmung-s-566-original-schumann"></a>[¶](#liszt-widmung-s-566-original-schumann) **Widmung, S.566(original; Schumann)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-widmung-s-566-original-schumann-rec-1"></a>1 | 1925~26(1923?) |  | **78s**: Duo Art piano roll<br>**CD**: Pearl GEMM CD 0102(2 set), Bellaphon, Fone(Ita) 9011 |
+| <a id="liszt-widmung-s-566-original-schumann-rec-2"></a>2 | Jun. 1928 |  | **78s**: HMV DA 944<br>**CD**: Toshiba-Shinseido SGR 1501, APR 6026(2 in 2 set) [NEW] |
+
+### <a id="liszt-entry-of-the-guests-original-wagner-from-tanhauser"></a>[¶](#liszt-entry-of-the-guests-original-wagner-from-tanhauser) **Entry of the Guests(original; Wagner, from Tanhäuser)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-entry-of-the-guests-original-wagner-from-tanhauser-rec-1"></a>1 | 1925~26 |  | **78s**: Duo Art piano roll<br>**CD**: Bellaphon |
+
+### <a id="liszt-forest-murmurs-original-wagner-from-siegfried"></a>[¶](#liszt-forest-murmurs-original-wagner-from-siegfried) **Forest Murmurs(original; Wagner, from Siegfried)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="liszt-forest-murmurs-original-wagner-from-siegfried-rec-1"></a>1 | ? |  | **78s**: ?<br>**CD**: Grammofono(Ita) 78513 |
+
+## <a id="mendelssohn"></a>[¶](#mendelssohn) Mendelssohn
+
+### <a id="mendelssohn-piano-concerto-no-1-in-g-minor-op-25-arr-for-piano-solo"></a>[¶](#mendelssohn-piano-concerto-no-1-in-g-minor-op-25-arr-for-piano-solo) **Piano Concerto No. 1 in g minor, Op. 25(arr. for piano solo)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mendelssohn-piano-concerto-no-1-in-g-minor-op-25-arr-for-piano-solo-rec-1"></a>1 | 3rd Dec. 1926 |  | **78s**: Duo Art Piano roll<br>**CD**: Fone(Ita) 9011 |
+
+### <a id="mendelssohn-a-midsummer-night-s-dream-scherzo-arr-for-piano-solo"></a>[¶](#mendelssohn-a-midsummer-night-s-dream-scherzo-arr-for-piano-solo) **A Midsummer Night's Dream, Scherzo(arr. for piano solo)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mendelssohn-a-midsummer-night-s-dream-scherzo-arr-for-piano-solo-rec-1"></a>1 | 1925(27?) |  | **78s**: HMV DB 1195<br>**CD**: Pearl GEMM CD 0102(2 set), APR 6026(1 in 2 set) [NEW] |
+
+### <a id="mendelssohn-from-lieder-ohne-worte-1-no-25-in-g-major-op-62-1-2-no-30-in-a-major-op-62-6-spring-song-3-no-34-in-c-major-op-67-4-spinnerlied"></a>[¶](#mendelssohn-from-lieder-ohne-worte-1-no-25-in-g-major-op-62-1-2-no-30-in-a-major-op-62-6-spring-song-3-no-34-in-c-major-op-67-4-spinnerlied) **From 'Lieder ohne Worte' 1. No. 25 in G major, Op. 62-1 2. No. 30 in A major, Op. 62-6 'Spring Song' 3. No. 34 in C major, Op. 67-4 'Spinnerlied'**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mendelssohn-from-lieder-ohne-worte-1-no-25-in-g-major-op-62-1-2-no-30-in-a-major-op-62-6-spring-song-3-no-34-in-c-major-op-67-4-spinnerlied-rec-1"></a>1 | Nov. 1956, Victoria Hall, Genève | Producer/Engineer ; James Walker/Gil Went(monaural), James Brown(stereo) | **LP**: Decca SXL 21053, London SLC 8057(JP)<br>**CD**: Decca [433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(32 in 39 set) [NEW] / UCCD-9081~110(30 set), London POCL 9531~60(30 set)<br>**Other**: 45s ; Decca CEP 640 / SEC 5050 |
+
+### <a id="mendelssohn-rondo-capriccioso-op-14"></a>[¶](#mendelssohn-rondo-capriccioso-op-14) **Rondo Capriccioso, Op. 14**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mendelssohn-rondo-capriccioso-op-14-rec-1"></a>1 | Nov. 1956, Victoria Hall, Genève | Producer/Engineer ; James Walker/Gil Went(monaural), James Brown(stereo) | **LP**: London SLC 8057(JP)<br>**CD**: Decca [433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 472 589-2 / 483 4952(32 in 39 set) [NEW] / UCCD-9081~110(30 set), London POCL 9531~60(30 set)<br>**Other**: 45s ; Decca CEP 640 / SEC 5050 |
+
+## <a id="moszkowski-moritz"></a>[¶](#moszkowski-moritz) Moszkowski, Moritz
+
+### <a id="moszkowski-moritz-caprice-espagnole"></a>[¶](#moszkowski-moritz-caprice-espagnole) **Caprice espagnole**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="moszkowski-moritz-caprice-espagnole-rec-1"></a>1 | 1925 |  | **78s**: HMV D 995<br>**CD**: Pearl GEMM CD 0102(2CD set) |
+| <a id="moszkowski-moritz-caprice-espagnole-rec-2"></a>2 | 4th Jan. 1928, Small Queen's Hall, London |  | **78s**: HMV DB 1130 - CC 12421-1<br>**CD**: Andante 2995(4 set), APR 6026(2 in 2 set) [NEW] |
+
+## <a id="mozart-w-a"></a>[¶](#mozart-w-a) Mozart, W. A.
+
+### <a id="mozart-w-a-piano-concerto-no-26-in-d-major-k-537-coronation"></a>[¶](#mozart-w-a-piano-concerto-no-26-in-d-major-k-537-coronation) **Piano Concerto No. 26 in D major, K. 537 "Coronation"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-concerto-no-26-in-d-major-k-537-coronation-rec-1"></a>1 | ca. Nov. 1941 |  | **78s**: HMV DB 5674~77 / DB 10076~79 -2RA 5290~97[-2, 3, 2, 2, 2, 2, 2, 2]<br>**LP**: EMI (Electrola, 2 set) / 053 2910831(Italy)<br>**CD**: Toshiba-Shinseido SGR 1508, APR 5637 [NEW]<br>**Other**: with Fritz Zaun / Berlin Staatskapelle (Cadenza; Backhaus) |
+
+### <a id="mozart-w-a-piano-concerto-no-27-in-b-flat-major-k-595"></a>[¶](#mozart-w-a-piano-concerto-no-27-in-b-flat-major-k-595) **Piano Concerto No. 27 in B flat major, K. 595**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-concerto-no-27-in-b-flat-major-k-595-rec-1"></a>1 | 30,31st May 1955, Redoutensaal, Wien | Producer/Engineer ; Victor Olof/Cyril Windebank(monaural), Peter Andry/James Brown(stereo) | **LP**: Decca BR 3018(10") / LXT 5123 / [SXL 2214](http://trmsolutions.co.kr/music/Decca-lps/sxl2201-50.htm) / ECS 749 / 411 695-1(2 set) / LW 50081(10") / SLA 25036(5 set; monaural) / SDD 116, London LL 1282 / CS 6141 / STS 15062 / SLC 8014(JP) / K38C-70032(JP)<br>**CD**: Decca [433 898-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 448 600-2 / 466 376-2 / 483 4952(33 in 39 set) / 482 1175(8 in 8 set; IT) / UCCD 9171 / UCCD 9523(SHM-CD) / UCCD 4403 / UCCD-9081~110(30 set), London F30L-20162 / POCL-3238 / POCL-4504 / POCL-6010 / POCL 9531~60(30 set)<br>**SACD**: Decca UCGD 7026<br>**Other**: with Karl Böhm / Wiener Philharmoniker |
+| <a id="mozart-w-a-piano-concerto-no-27-in-b-flat-major-k-595-rec-2"></a>2 | 29th Jan. 1956, Mozarteum, Salzburg(live) |  | **CD**: Internationale stiftung Mozarteum ISM 56/1<br>**Other**: with Karl Böhm / Wiener Philharmoniker |
+| <a id="mozart-w-a-piano-concerto-no-27-in-b-flat-major-k-595-rec-3"></a>3 | 2nd Aug. 1960, Großer Festspielhaus, Salzburg(live; monaural) |  | **LP**: Grandi Concerti GCL 14, King Record K22C-168<br>**CD**: Orfeo d'or C 096 791 B, Madrigal, Seven Seas(JP)<br>**Other**: with Karl Böhm / Wiener Philharmoniker |
+
+### <a id="mozart-w-a-piano-sonata-no-4-in-e-flat-major-k-282-189g"></a>[¶](#mozart-w-a-piano-sonata-no-4-in-e-flat-major-k-282-189g) **Piano Sonata No. 4 in E flat major, K. 282(189g)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-sonata-no-4-in-e-flat-major-k-282-189g-rec-1"></a>1 | 17,18, 20~22nd Nov. 1966, Victoria Hall, Genève | Producer/Engineer ; John Mordler/James Lock | **LP**: Decca LXT 6301 / SXL 6301 / SXL 21163 / 411 695-1(2 set), London CS 6534, Life-Time STLM 10(5 set)<br>**CD**: Decca 433 900-2 / 483 4952(33 in 39 set) / UCCD-7023 / UCCD 9168 / UCCD-9081~110(30 set) / UCCD-7482, London F30L-20165 / POCL 3248 / POCL 9531~60(30 set) |
+
+### <a id="mozart-w-a-piano-sonata-no-5-in-g-major-k-283-189h"></a>[¶](#mozart-w-a-piano-sonata-no-5-in-g-major-k-283-189h) **Piano Sonata No. 5 in G major, K. 283(189h)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-sonata-no-5-in-g-major-k-283-189h-rec-1"></a>1 | 30th Jul. 1966, Mozarteum, Salzburg Festival(live, monaural) |  | **CD**: Orfeo C 530 001B |
+| <a id="mozart-w-a-piano-sonata-no-5-in-g-major-k-283-189h-rec-2"></a>2 | 17,18, 20~22nd Nov. 1966, Victoria Hall, Genève | Producer/Engineer ; John Mordler/James Lock | **LP**: Decca LXT 6301 / SXL 6301 / SXL 21163 / 411 695-1(2 set), London CS 6534, Life-Time STLM 10(5 set)<br>**CD**: Decca 433 900-2 / 483 4952(33 in 39 set) / UCCD-7023 / UCCD 9168 / UCCD-9081~110(30 set) / UCCD-7482, London F30L-20165 / POCL 3248 / POCL 9531~60(30 set) |
+
+### <a id="mozart-w-a-piano-sonata-no-10-in-c-major-k-330-300h"></a>[¶](#mozart-w-a-piano-sonata-no-10-in-c-major-k-330-300h) **Piano Sonata No. 10 in C major, K. 330(300h)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-sonata-no-10-in-c-major-k-330-300h-rec-1"></a>1 | 7~16,27th Oct. & 9,12th Nov. 1955, Victoria Hall, Genève(monaural; stereo unpublished) | Producer/Engineer ; Victor Olof/Gil Went(monaural), James Walker/Roy G. Wallace(stereo) | **LP**: Decca LXT 5167 / ECS 749 / BLK 16154, London LL 1399 / CM 9151 / MZ 5118(JP)<br>**CD**: Decca 483 4952(17 in 39 set) / UCCD 9176 / UCCD-9081~110(30 set) / UCCD-7482, London F30L 20173 / POCL-3343 / POCL 9531~60(30 set) |
+| <a id="mozart-w-a-piano-sonata-no-10-in-c-major-k-330-300h-rec-2"></a>2 | Feb. 1956, Salzburg Festival(live, monaural) |  | **CD**: Memoria(Swi) 991.009 |
+| <a id="mozart-w-a-piano-sonata-no-10-in-c-major-k-330-300h-rec-3"></a>3 | 8th Oct. ~ 15th Nov.(or 30th Sep.) 1961, Victoria Hall, Genève | Producer/Engineer ; Michael Bremner/Roy G. Wallace | **LP**: Decca LXT 6301 / SXL 6301 / SXL 21163 / 411 695-1(2 set), London CS 6534<br>**CD**: Decca 433 900-2 / 483 4952(33 in 39 set) / UCCD-7023 / UCCD 9168 / UCCD-9081~110(30 set), London F30L-20165 / POCL 9531~60(30 set) |
+| <a id="mozart-w-a-piano-sonata-no-10-in-c-major-k-330-300h-rec-4"></a>4 | Nov. 1961, BBC Studios, London(for broadcast) |  | **CD**: Testament SBT 1487 |
+
+### <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca"></a>[¶](#mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca) **Piano Sonata No. 11 in A major, K. 331(300i) "Alla Turca"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-1"></a>1 | 16th Mar. 1948, Wolfbach Studio, Zürich | Producer/Engineer ; Walter Legge/? | **78s**: HMV DB 6810~11 - 2ZA 53~56[-1, 2, 1, 1]<br>**LP**: EMI QALP 10361(Italy)<br>**CD**: Toshiba-Shinseido SGR 1507, APR 5637 [NEW] |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-2"></a>2 | 30th Mar. 1954, Carnegie Hall, New York, NY(only 3rd mvt.; live; monaural) |  | **LP**: Decca<br>**CD**: Decca 483 4952(37 in 39 set) |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-3"></a>3 | 30,31st May 1955, Redoutensaal, Wien | Producer/Engineer ; Victor Olof/Cyril Windebank(monaural), Peter Andry/James Brown(stereo) | **LP**: Decca LXT 5123 / [SXL 2214](http://trmsolutions.co.kr/music/Decca-lps/sxl2201-50.htm) / ECS 749 / 411 695-1(2 set) / SDD 116, London LL 1282 / CS 6141 / STS 15062 / SLC 8057 (JP) / K38C-70032(JP), Life-Time STLM 10(5 set)<br>**CD**: Decca [433 898-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(17 in 39 set) / UCCD-7023 / UCCD 9168 / UCCD-9081~110(30 set) / UCCD-7482, London F30L-20165 / POCL 9531~60(30 set) |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-4"></a>4 | Jan. 1956, Salzburg Festival(live, monaural) |  | **CD**: Memoria(Swi) 991.009, AS Disc, Frequenz, Notes(Ita) |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-5"></a>5 | 1956, Carnegie Hall, New York(live, monaural; 3rd mvt) | **Note**: Encore at this concert | **CD**: Profil PH 07006 |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-6"></a>6 | Jan. 1960, Wien | **Note**: This recording is now identified as different to the well-known 1955 recording. Perhaps included in Japanese 30CD issues. I don't know if this was issued as LP, but maybe included in Decca's complete Backhaus set(49 LPs), of which number I don't know still. | **LP**: Decca<br>**CD**: Decca 483 4952(33 in 39 set) |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-7"></a>7 | 30th Jul. 1966, Mozarteum, Salzburg Festival(live, monaural) |  | **CD**: Orfeo C 530 001B / 712 602(2 set) |
+| <a id="mozart-w-a-piano-sonata-no-11-in-a-major-k-331-300i-alla-turca-rec-8"></a>8 | 26th Jun. 1969, Ossiach Stiftkirche in Carinthia, Austria(live) |  | **LP**: Decca SXL 20090 / 641505<br>**CD**: Decca 483 4952(39 in 39 set) / UCCD 9185(2 set) / DD 5977(2 set), London [POCL-2659~60](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#HBS)(2 set) / POCL 9941~42 (2 set), Ermitage |
+
+### <a id="mozart-w-a-piano-sonata-no-12-in-f-major-k-332"></a>[¶](#mozart-w-a-piano-sonata-no-12-in-f-major-k-332) **Piano Sonata No. 12 in F major, K. 332**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-sonata-no-12-in-f-major-k-332-rec-1"></a>1 | 8th Oct. ~ 15th Nov.(or 30th Sep.) 1961, Victoria Hall, Genève | Producer/Engineer ; Michael Bremner/Roy G. Wallace | **LP**: Decca LXT 6301 / SXL 6301 / SXL 21163 / 411 695-1(2 set), London CS 6534<br>**CD**: Decca 433 900-2 / UCCD-7023 / UCCD 9168 / UCCD-9081~110(30 set) / UCCD-7482, London F30L-20165 / POCL 9531~60(30 set) |
+| <a id="mozart-w-a-piano-sonata-no-12-in-f-major-k-332-rec-2"></a>2 | Nov. 1961, BBC Studios, London(for broadcast) |  | **CD**: Testament SBT 1487 |
+| <a id="mozart-w-a-piano-sonata-no-12-in-f-major-k-332-rec-3"></a>3 | 28th Jul. 1962, Mozarteum, Salzburg(live, monaural) |  | **CD**: Orfeo d'or 712 602(2 set) |
+
+### <a id="mozart-w-a-piano-sonata-no-14-in-c-minor-k-457"></a>[¶](#mozart-w-a-piano-sonata-no-14-in-c-minor-k-457) **Piano Sonata No. 14 in c minor, K. 457**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-piano-sonata-no-14-in-c-minor-k-457-rec-1"></a>1 | 7~16,27th Oct. & 9,12th Nov. 1955, Victoria Hall, Genève(monaural; stereo unpublished) | Producer/Engineer ; Victor Olof/Gil Went(monaural), James Walker/Roy G. Wallace(stereo) | **LP**: Decca LXT 5167 / BLK 16154, London LL 1399 / CM 9151 / MZ 5118(JP)<br>**CD**: Decca [433 898-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(17 in 39 set) / UCCD 9176 / UCCD-9081~110(30 set), London F30L 20173 / POCL-2672 / POCL-3343 / POCL 9531~60(30 set) |
+| <a id="mozart-w-a-piano-sonata-no-14-in-c-minor-k-457-rec-2"></a>2 | Feb. 1956, Salzburg Festival(live, monaural) |  | **CD**: Memoria(Swi) 991.009 |
+
+### <a id="mozart-w-a-fantasy-in-c-minor-k-475"></a>[¶](#mozart-w-a-fantasy-in-c-minor-k-475) **Fantasy in c minor, K. 475**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-fantasy-in-c-minor-k-475-rec-1"></a>1 | 7~16,27th Oct. & 9,12th Nov. 1955, Victoria Hall, Genève(monaural; stereo unpublished) | Producer/Engineer ; Victor Olof/Gil Went(monaural), James Walker/Roy G. Wallace(stereo) | **LP**: Decca LXT 5167 / BLK 16154, London LL 1399 / CM 9151<br>**CD**: Decca 483 4952(17 in 39 set) / UCCD 9176 / UCCD-9081~110(30 set), London F30L 20173 / POCL-2672 / POCL-3343 / POCL 9531~60(30 set) |
+| <a id="mozart-w-a-fantasy-in-c-minor-k-475-rec-2"></a>2 | Feb. 1956, Salzburg Festival(live, monaural) |  | **CD**: Memoria(Swi) 991.009 |
+
+### <a id="mozart-w-a-rondo-in-a-minor-k-511"></a>[¶](#mozart-w-a-rondo-in-a-minor-k-511) **Rondo in a minor, K. 511**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-rondo-in-a-minor-k-511-rec-1"></a>1 | 7~16,27th Oct. & 9,12th Nov. 1955, Victoria Hall, Genève(monaural; stereo unpublished) | Producer/Engineer ; Victor Olof/Gil Went(monaural), James Walker/Roy G. Wallace(stereo) | **LP**: Decca LXT 5167 / BLK 16154, London LL 1399 / CM 9151 / MZ 5118(JP)<br>**CD**: Decca 483 4952(17 in 39 set) / UCCD-9081~110(30 set), London F30L 20173 / POCL-3343 / POCL 9531~60(30 set) |
+| <a id="mozart-w-a-rondo-in-a-minor-k-511-rec-2"></a>2 | Feb. 1956, Salzburg Festival(live, monaural) |  | **CD**: Memoria(Swi) 991.009 |
+| <a id="mozart-w-a-rondo-in-a-minor-k-511-rec-3"></a>3 | 17,18, 20~22nd Nov. 1966, Victoria Hall, Genève | Producer/Engineer ; John Mordler/James Lock | **LP**: Decca LXT 6301 / SXL 6301 / 411 695-1(2 set) / 414 102-1, London CS 6534<br>**CD**: Decca [433 900-2](http://pds14.egloos.com/pds/200901/26/20/b0000920_497dbb50d7983.jpg) / U483 4952(33 in 39 set) / CCD-7023 / UCCD 9168 / UCCD-9081~110(30 set) / UCCD-7482, London [F30L-20165](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#BC) / POCL 3248 / POCL9531~60(30 set) |
+
+### <a id="mozart-w-a-don-giovanni-k-527-deh-vieni-alla-finestra-serenade-arr-backhaus"></a>[¶](#mozart-w-a-don-giovanni-k-527-deh-vieni-alla-finestra-serenade-arr-backhaus) **Don Giovanni, K. 527; Deh vieni alla finestra [Serenade](arr. Backhaus)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mozart-w-a-don-giovanni-k-527-deh-vieni-alla-finestra-serenade-arr-backhaus-rec-1"></a>1 | 1923 |  | **78s**: Duo Art Piano Roll<br>**CD**: Pearl GEMM CD 0102(2 set), Bellaphon, Fone(Ita) 9011 |
+| <a id="mozart-w-a-don-giovanni-k-527-deh-vieni-alla-finestra-serenade-arr-backhaus-rec-2"></a>2 | 1924 |  | **78s**: HMV E 338<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="mozart-w-a-don-giovanni-k-527-deh-vieni-alla-finestra-serenade-arr-backhaus-rec-3"></a>3 | Jun. 1928 |  | **78s**: HMV DA 944<br>**CD**: Pearl GEMM CD 0102(2 set), APR 6026(2 in 2 set), Toshiba-Shinseido SGR 1501 |
+
+## <a id="mussorgsky"></a>[¶](#mussorgsky) Mussorgsky
+
+### <a id="mussorgsky-gopak"></a>[¶](#mussorgsky-gopak) **Gopak**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="mussorgsky-gopak-rec-1"></a>1 | 1954 or 1956 |  | **LP**: Decca |
+
+## <a id="pick-mangiagalli"></a>[¶](#pick-mangiagalli) Pick-Mangiagalli
+
+### <a id="pick-mangiagalli-lunaires-op-33-no-2-olaf-s-dance"></a>[¶](#pick-mangiagalli-lunaires-op-33-no-2-olaf-s-dance) **Lunaires, Op. 33; No. 2, Olaf's Dance**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="pick-mangiagalli-lunaires-op-33-no-2-olaf-s-dance-rec-1"></a>1 | 1922~23 |  | **78s**: Duo Art piano roll<br>**CD**: Bellaphon, Fone(Ita) 9011 |
+
+## <a id="rachmaninov"></a>[¶](#rachmaninov) Rachmaninov
+
+### <a id="rachmaninov-prelude-no-2-in-c-sharp-minor-op-3-2"></a>[¶](#rachmaninov-prelude-no-2-in-c-sharp-minor-op-3-2) **Prelude No. 2 in c sharp minor, Op. 3-2**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="rachmaninov-prelude-no-2-in-c-sharp-minor-op-3-2-rec-1"></a>1 | 29th Sep. 1908, Room 1, Hayes, England |  | **78s**: Gramophone Monarch 05504, O35511 / 2596f<br>**LP**: EMI EX 290345(2 set)<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1501, Andante 2995(4 set) |
+
+## <a id="rubinstein-anton"></a>[¶](#rubinstein-anton) Rubinstein, Anton
+
+### <a id="rubinstein-anton-soirees-a-saint-petersbourg-op-44-no-1-romance-in-e-flat-major"></a>[¶](#rubinstein-anton-soirees-a-saint-petersbourg-op-44-no-1-romance-in-e-flat-major) **Soirées a Saint-Petersbourg, Op. 44; No. 1, Romance in E flat major**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="rubinstein-anton-soirees-a-saint-petersbourg-op-44-no-1-romance-in-e-flat-major-rec-1"></a>1 | 1923 |  | **78s**: Polydor 61876 |
+
+### <a id="rubinstein-anton-album-of-popular-dances-op-82-no-7-polka"></a>[¶](#rubinstein-anton-album-of-popular-dances-op-82-no-7-polka) **Album of Popular Dances, Op. 82; No. 7, Polka**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="rubinstein-anton-album-of-popular-dances-op-82-no-7-polka-rec-1"></a>1 | 1916(Acoustic) |  | **78s**: ?<br>**CD**: Biddulph Piano Series LHW 38, Pearl GEMM CD 0102(2 set) |
+| <a id="rubinstein-anton-album-of-popular-dances-op-82-no-7-polka-rec-2"></a>2 | 1923 |  | **78s**: Polydor 61876<br>**CD**: Pearl GEMM CD 0102(2 set) |
+
+## <a id="scarlatti-domenico"></a>[¶](#scarlatti-domenico) Scarlatti, Domenico
+
+### <a id="scarlatti-domenico-sonata-in-g-major-k-523-l-490-sonata-in-f-major-k-525-l-188"></a>[¶](#scarlatti-domenico-sonata-in-g-major-k-523-l-490-sonata-in-f-major-k-525-l-188) **Sonata in G major, K. 523(L.490) Sonata in F major, K. 525(L.188)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="scarlatti-domenico-sonata-in-g-major-k-523-l-490-sonata-in-f-major-k-525-l-188-rec-1"></a>1 | 1910 |  | **78s**: HMV 05535<br>**CD**: Pearl GEMM CD 0102(2 set) |
+
+## <a id="schubert"></a>[¶](#schubert) Schubert
+
+### <a id="schubert-piano-quintet-in-a-major-d-667-trout"></a>[¶](#schubert-piano-quintet-in-a-major-d-667-trout) **Piano Quintet in A major, D. 667 "Trout"**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-piano-quintet-in-a-major-d-667-trout-rec-1"></a>1 | 5~7th Mar. & 18th Jun. 1928, Small Queen's Hall, London |  | **78s**: HMV DB 1484~87 - CC 12811~18<br>**LP**: Rarissima 46<br>**CD**: Biddulph Piano Series LHW 038, Toshiba-Shinseido SGR 1512, Andante 2995(4 set)<br>**Other**: with members of the International String Quartet & Claude Hobday(cb) - André Mangeot(vn), Franck Howard(va), Herbert Withers(vc) |
+
+### <a id="schubert-piano-sonata-no-18-in-g-major-d-894-minuetto"></a>[¶](#schubert-piano-sonata-no-18-in-g-major-d-894-minuetto) **Piano Sonata No. 18 in G major, D. 894(Minuetto)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-piano-sonata-no-18-in-g-major-d-894-minuetto-rec-1"></a>1 | 1928 |  | **78s**: HMV DB 1195<br>**CD**: Toshiba-Shinseido SGR 1512 |
+
+### <a id="schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major"></a>[¶](#schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major) **Moments Musicaux, D. 780 1. C major 2. A flat major 3. f minor 4. c sharp minor 5. f minor 6. A flat major**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major-rec-1"></a>1 | 20th May 1913(No. 3) |  | **78s**: HMV 05550<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major-rec-2"></a>2 | 28th Jan. 1927(No. 3) |  | **78s**: HMV DB 1033<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major-rec-3"></a>3 | 4th Jan. 1928, Small Queen's Hall, London(No. 3) |  | **78s**: HMV DB 1126 - Cc 12189-2<br>**CD**: Toshiba-Shinseido SGR 1512, Andante 2995(4 set) |
+| <a id="schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major-rec-4"></a>4 | 1936(No. 6) |  | **78s**: HMV DB 2809<br>**CD**: Pearl GEMM CD 0046 |
+| <a id="schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major-rec-5"></a>5 | 7~16,27th Oct. & 9,12th Nov. 1955, Victoria Hall, Genève(complete) | Producer/Engineer ; Victor Olof/Gil Went(monaural), James Walker/Roy G. Wallace(stereo)<br>**Note**: As far as I know, all the Japanese issues are monaural, but 433 902-2 is stereo. | **LP**: Decca LXT 5413, London LL 1725 / SLC 8057(No. 3; JP)<br>**CD**: Decca [433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(16 in 39 set) / UCCD 9174 / UCCD-9081~110(30 set), London F30L 20168 / POCL-3339 / POCL 9531~60(30 set) |
+| <a id="schubert-moments-musicaux-d-780-1-c-major-2-a-flat-major-3-f-minor-4-c-sharp-minor-5-f-minor-6-a-flat-major-rec-6"></a>6 | 26th Jun. 1969, Ossiach Stiftkirche in Carinthia, Austria(complete; live) |  | **CD**: Decca 483 4952(38 in 39 set) / UCCD 9185(2 set) / DD 5977(2 set), London [POCL-2659~60](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#HBS)(2 set) / POCL 9941~42 (2 set), Ermitage |
+
+### <a id="schubert-4-impromptus-d-899"></a>[¶](#schubert-4-impromptus-d-899) **4 Impromptus, D. 899**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-4-impromptus-d-899-rec-1"></a>1 | 15,16th Mar. 1948, Wolfbach Studio, Zürich(No. 2) | Producer/Engineer ; Walter Legge/? | **78s**: HMV DB 6790 - 2ZA 52-1<br>**CD**: Toshiba-Shinseido SGR 1507, APR 5637 [NEW], Andante 2295(4 set) |
+
+### <a id="schubert-4-impromptus-d-935-1-no-2-in-a-flat-major"></a>[¶](#schubert-4-impromptus-d-935-1-no-2-in-a-flat-major) **4 Impromptus, D. 935 — 1. No. 2 in A flat major**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-4-impromptus-d-935-1-no-2-in-a-flat-major-rec-1"></a>1 | 30th Mar. 1954, Carnegie Hall, New York(live, monaural) | **Note**: played as encore at this recital. This item is missdated as 1956 in Decca issue. | **LP**: Decca SLA 25036(5 set), London LL 1108(2 set) / K18C 9465(JP)<br>**CD**: Decca[433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(37 in 39 set) / UCCD 9183(2 set) / DD 5976(2 set), Philips [456 718-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#GP)(2 set) / PHCP 20505(2 set), London [POCL-3479~80](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#Misc2)(2 set) / POCL 9939~40(2 set) |
+| <a id="schubert-4-impromptus-d-935-1-no-2-in-a-flat-major-rec-2"></a>2 | 1956, Carnegie Hall, New York(live, monaural) | **Note**: Encore at this concert | **CD**: Profil PH 07006 |
+| <a id="schubert-4-impromptus-d-935-1-no-2-in-a-flat-major-rec-3"></a>3 | 26th Jun. 1969, Ossiach Stiftkirche in Carinthia, Austria(live) |  | **LP**: Decca SXL 20090 / 641505<br>**CD**: Decca 483 4952(39 in 39 set) / UCCD 9185(2 set) / DD 5977(2 set), London [POCL-2659~60](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#HBS)(2 set) / POCL 9941~42(2 set) |
+| <a id="schubert-4-impromptus-d-935-1-no-2-in-a-flat-major-rec-4"></a>4 | 28th Jun. 1969, Ossiach Stiftkirche in Carinthia, Austria(live) | **Note**: played as one of the second part after stopping Beethoven's sonata No. 18 in his last recital, and the last music he played. | **LP**: Decca SXL 20090 / 641505<br>**CD**: Decca 483 4952(39 in 39 set) / UCCD 9185(2 set) / DD 5977(2 set), London [POCL-2659~60](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#HBS)(2 set) / POCL 9941~42(2 set) |
+
+### <a id="schubert-2-no-3-in-b-flat-major"></a>[¶](#schubert-2-no-3-in-b-flat-major) **2. No. 3 in B flat major**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-2-no-3-in-b-flat-major-rec-1"></a>1 | 4th Jan. 1928, Small Queen's Hall, London |  | **78s**: HMV DB 1126 - CC 12189~90(-2, -2)<br>**CD**: Toshiba-Shinseido SGR 1512, Andante 2995(4 set) |
+| <a id="schubert-2-no-3-in-b-flat-major-rec-2"></a>2 | 30th Mar. 1954, Carnegie Hall, New York, NY(live, monaural) |  | **CD**: Decca 483 4952(37 in 39 set) |
+| <a id="schubert-2-no-3-in-b-flat-major-rec-3"></a>3 | 4th Nov. 1956, Victoria Hall, Genève | Producer/Engineer ; James Walker/Gil Went(monaural), James Brown(stereo) | **LP**: Decca SXL 21053 / SVD 803(7"), London SLC 8057(JP)<br>**CD**: Decca [433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(35 in 39 set) / UCCD-9081~110(30 set), London POCL 9531~60(30 set)<br>**Other**: 45s; Decca CEP 641 / SEC 5051 |
+
+### <a id="schubert-marche-militaire-in-e-flat-major-d-733-3-arr-backhaus-for-piano-solo"></a>[¶](#schubert-marche-militaire-in-e-flat-major-d-733-3-arr-backhaus-for-piano-solo) **Marche militaire in E flat major, D. 733-3(arr. Backhaus, for piano solo)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-marche-militaire-in-e-flat-major-d-733-3-arr-backhaus-for-piano-solo-rec-1"></a>1 | 4th Jan. 1928, Small Queen's Hall, London |  | **78s**: HMV DB 1125 - CC 12200-2<br>**CD**: Shinseido, Andante 2995(4 set), APR 6026(2 in 2 set) |
+
+### <a id="schubert-valses-nobles-d-969-no-1-6-5-4-11-12"></a>[¶](#schubert-valses-nobles-d-969-no-1-6-5-4-11-12) **Valses nobles, D. 969(No. 1,6,5,4,11,12)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-valses-nobles-d-969-no-1-6-5-4-11-12-rec-1"></a>1 | Nov. 1956, Victoria Hall, Genève | Producer/Engineer ; James Walker/Gil Went(monaural), James Brown(stereo) | **LP**: Decca SXL 21053 / SVD 803(7"), London SLC 8057(JP)<br>**CD**: Decca [433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(35 in 39 set) / UCCD-9081~110(30 set), London POCL 9531~60(30 set)<br>**Other**: 45s ; Decca CEP 641 / SEC 5051 |
+
+### <a id="schubert-wanderer-fantasy-d-760-arranged-for-piano-solo"></a>[¶](#schubert-wanderer-fantasy-d-760-arranged-for-piano-solo) **Wanderer Fantasy D. 760(arranged for piano solo?)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schubert-wanderer-fantasy-d-760-arranged-for-piano-solo-rec-1"></a>1 | 1908~20 |  | **78s**: Welte Mignon piano roll<br>**LP**: The Welte legacy of Piano Treasures 702 |
+
+## <a id="schumann"></a>[¶](#schumann) Schumann
+
+### <a id="schumann-piano-concerto-in-a-minor-op-54"></a>[¶](#schumann-piano-concerto-in-a-minor-op-54) **Piano Concerto in a minor, Op. 54**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-piano-concerto-in-a-minor-op-54-rec-1"></a>1 | 3,4th Jan. 1960, Sofiensaal, Wien | Producer/Engineer ; Erik Smith/James Brown(stereo), Ray Minshull/Gordon Parry(monaural)<br>**Note**: London F30L-20162 misdated Jan. 1955. | **LP**: Decca BR 3048(10") / SWL 8022(10") / SDD 201 / SLA 25036(5 set; monaural) / RD 096, London CM 9260 / CS 6181 / SLC 8014(JP)<br>**CD**: Decca 433 899-2 / 483 4952(34 in 39 set) / 482 1175(8 in 8 set; IT) / UCCD 9171 / UCCD-9081~110(30 set), London F30L-20162 / POCL-3238 / POCL 9531~60(30 set)<br>**Tape**: Decca MD 146(KR)<br>**Other**: with Günter Wand / Wiener Philharmoniker |
+| <a id="schumann-piano-concerto-in-a-minor-op-54-rec-2"></a>2 | 17th Mar. 1963(live; ORF) |  | **CD**: Stradivarius(Ita) 12305, Altus ALT 090<br>**Other**: with Karl Böhm / Wiener Philharmoniker |
+
+### <a id="schumann-traumerei-from-kinderszenen"></a>[¶](#schumann-traumerei-from-kinderszenen) **Träumerei (from Kinderszenen)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-traumerei-from-kinderszenen-rec-1"></a>1 | 1926 |  | **78s**: HMV DB 1033 |
+
+### <a id="schumann-davidsbundlertanze-op-6"></a>[¶](#schumann-davidsbundlertanze-op-6) **Davidsbündlertanze, Op. 6**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-davidsbundlertanze-op-6-rec-1"></a>1 | ? |  | **78s**: ?<br>**CD**: Enterprise/Piano Library(Ita) 336 |
+
+### <a id="schumann-fantasy-in-c-major-op-17"></a>[¶](#schumann-fantasy-in-c-major-op-17) **Fantasy in C major, Op. 17**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-fantasy-in-c-major-op-17-rec-1"></a>1 | 13,14th May 1937, Studio No. 3, Abbey Road, London |  | **78s**: HMV DB 3221~24 - 2EA 4914~19<br>**LP**: EMI EX 290345(2 set), Discocorp IGI 296(2 set), Parnassus 3<br>**CD**: Pearl GEMM CD 0046, Toshiba-Shinseido SGR 1503, Andante 2995(4 set), Hänssler 94044, APR 6026(2 in 2 set) |
+
+### <a id="schumann-from-nachtstucke-op-23-no-4-in-f-major"></a>[¶](#schumann-from-nachtstucke-op-23-no-4-in-f-major) **from Nachtstücke, Op. 23; No. 4 in F major**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-from-nachtstucke-op-23-no-4-in-f-major-rec-1"></a>1 | 1938(37?) |  | **78s**: HMV DB 3224<br>**LP**: Parnassus 3<br>**CD**: Toshiba-Shinseido SGR 1503, APR 6026(2 in 2 set) |
+
+### <a id="schumann-novelette-in-e-major-op-21-7"></a>[¶](#schumann-novelette-in-e-major-op-21-7) **Novelette in E major, Op. 21-7**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-novelette-in-e-major-op-21-7-rec-1"></a>1 | 1910 |  | **78s**: HMV 05529<br>**CD**: Pearl GEMM CD 0102(2 set) |
+
+### <a id="schumann-phantasiestucke-op-12"></a>[¶](#schumann-phantasiestucke-op-12) **Phantasiestücke Op. 12**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-phantasiestucke-op-12-rec-1"></a>1 | 1925(28?)(No. 7) |  | **78s**: HMV<br>**CD**: Pearl GEMM CD 0102(2 set), APR 6026(2 in 2 set) |
+| <a id="schumann-phantasiestucke-op-12-rec-2"></a>2 | Oct. 1928(No. 2) |  | **78s**: HMV DA 1018<br>**CD**: Toshiba-Shinseido SGR 1503, APR 6026(2 in 2 set) |
+| <a id="schumann-phantasiestucke-op-12-rec-3"></a>3 | Mar. 1951, Victoria Hall, Genève(No. 3; monaural) | Producer/Engineer ; Victor Olof/Arthur Haddy | **LP**: Decca LXT 2754(DE) / LXT 2931, London LL 603<br>**CD**: Decca 483 4952(16 in 39 set) |
+| <a id="schumann-phantasiestucke-op-12-rec-4"></a>4 | 30th Mar. 1954, Carnegie Hall, New York, NY(No. 3; live, monaural) | **Note**: played as encore at this recital. This item is missdated as 1956 in Decca issue. | **LP**: Decca SLA 25036(5 set), London LL 1108(2 set) / K18C 9465(JP)<br>**CD**: Decca [433 902-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#DE) / 483 4952(37 in 39 set) / UCCD 9183(2 set) / DD 5976(2 set), Philips [456 718-2](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#GP)(2 set) / PHCP 20505(2 set), London [POCL-3479~80](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#Misc2)(2 set) / POCL 9939~40(2 set) |
+| <a id="schumann-phantasiestucke-op-12-rec-5"></a>5 | 28th Jun. 1969, Ossiach Stiftkirche in Carinthia, Austria(No. 1,3; live) | **Note**: played as one of the second part in his last recital. | **CD**: Decca 483 4952(39 in 39 set) / DD 5997(2 set), London [POCL-2659~60](http://trmsolutions.co.kr/music/Backhaus/jacket.htm#HBS)(2 set) / POCL 9941~42(2 set), Ermitage |
+
+### <a id="schumann-waldszenen-op-82"></a>[¶](#schumann-waldszenen-op-82) **Waldszenen, Op. 82**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="schumann-waldszenen-op-82-rec-1"></a>1 | 30th Mar. 1954, Carnegie Hall, New York, NY(No. 7; live, monaural) |  | **CD**: Decca 483 4952(37 in 39 set) |
+| <a id="schumann-waldszenen-op-82-rec-2"></a>2 | 10~16,27th Oct. & 9,12th Nov. 1955, Victoria Hall, Genève(complete) | Producer/Engineer ; Victor Olof/Gil Went(monaural), James Walker/Roy G. Wallace(stereo)<br>**Note**: As far as I know, all the Japanese CD issues are monaural, but 433 902-2 is stereo. | **LP**: Decca LXT 5413 / [SDD 201](http://pds14.egloos.com/pds/200901/21/20/b0000920_497724954f9d5.jpg) / [RD 096](http://pds14.egloos.com/pds/200901/21/20/b0000920_4977249329c25.gif), London LL 1725 / CM 9260 / CS 6181<br>**CD**: Decca [433 899-2](http://pds10.egloos.com/pds/200901/21/20/b0000920_497724959dc5b.jpg) / 483 4952(16 in 39 set) / UCCD 9174 / UCCD-9081~110(30 set), London F30L 20168 / POCL-3339 / POCL 9531~60(30 set)<br>**Tape**: Decca MD 146(KR) |
+| <a id="schumann-waldszenen-op-82-rec-4"></a>4 | 1956, Carnegie Hall, New York(live, No. 7; monaural) | **Note**: Encore at this concert | **CD**: Profil PH 07006 |
+
+## <a id="smetana"></a>[¶](#smetana) Smetana
+
+### <a id="smetana-czech-dances-14-for-piano-t-112-no-3-polka-in-f-major"></a>[¶](#smetana-czech-dances-14-for-piano-t-112-no-3-polka-in-f-major) **Czech Dances (14) for Piano, T.112: No. 3, Polka in F major**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="smetana-czech-dances-14-for-piano-t-112-no-3-polka-in-f-major-rec-1"></a>1 | 1908~20 |  | **78s**: Duo Art piano roll<br>**LP**: CBS 25 AC 245(JP) |
+| <a id="smetana-czech-dances-14-for-piano-t-112-no-3-polka-in-f-major-rec-2"></a>2 | 1910 |  | **78s**: HMV 05534<br>**CD**: Pearl GEMM CD 0102(2 set) |
+| <a id="smetana-czech-dances-14-for-piano-t-112-no-3-polka-in-f-major-rec-3"></a>3 | 1925~26(1923?) |  | **78s**: Duo Art piano roll<br>**CD**: Pearl GEMM CD 0102(2 set), Fone(Ita) 9011 |
+| <a id="smetana-czech-dances-14-for-piano-t-112-no-3-polka-in-f-major-rec-4"></a>4 | 1925 |  | **78s**: HMV D 99 |
+| <a id="smetana-czech-dances-14-for-piano-t-112-no-3-polka-in-f-major-rec-5"></a>5 | 4th Jan. 1928, Small Queen's Hall, London |  | **78s**: HMV DB 1130 - CC 12420-1<br>**CD**: Andante 2995(4 set), APR 6026(1 in 2 set) |
+
+## <a id="strauss-r"></a>[¶](#strauss-r) Strauss, R.
+
+### <a id="strauss-r-lieder-op-17-no-2-standchen-arr-backhaus"></a>[¶](#strauss-r-lieder-op-17-no-2-standchen-arr-backhaus) **Lieder Op. 17; No. 2, Ständchen(arr. Backhaus)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="strauss-r-lieder-op-17-no-2-standchen-arr-backhaus-rec-1"></a>1 | 5th Jun. 1923 |  | **78s**: Duo Art piano roll<br>**CD**: Fone(Ita) 9011 |
+
+## <a id="tchaikovsky"></a>[¶](#tchaikovsky) Tchaikovsky
+
+### <a id="tchaikovsky-piano-concerto-no-1-in-b-flat-minor-only-piano-solo"></a>[¶](#tchaikovsky-piano-concerto-no-1-in-b-flat-minor-only-piano-solo) **Piano Concerto No. 1 in b flat minor(only Piano solo)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="tchaikovsky-piano-concerto-no-1-in-b-flat-minor-only-piano-solo-rec-1"></a>1 | 1920 |  | **78s**: Duo Art piano roll |
+
+## <a id="wagner"></a>[¶](#wagner) Wagner
+
+### <a id="wagner-die-meistersinger-von-nurnberg-prelude-to-act-i-arr-hutcheson"></a>[¶](#wagner-die-meistersinger-von-nurnberg-prelude-to-act-i-arr-hutcheson) **Die Meistersinger von Nurnberg, Prelude to Act I(arr. Hutcheson)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="wagner-die-meistersinger-von-nurnberg-prelude-to-act-i-arr-hutcheson-rec-1"></a>1 | 1925~26 |  | **78s**: Duo Art piano roll<br>**CD**: Bellaphon |
+
+## <a id="weber"></a>[¶](#weber) Weber
+
+### <a id="weber-perpetuum-mobile-rondo-from-piano-sonata-no-1-in-c-major-op-24"></a>[¶](#weber-perpetuum-mobile-rondo-from-piano-sonata-no-1-in-c-major-op-24) **perpetuum mobile(Rondo) (from Piano Sonata No. 1 in C major, Op. 24)**
+
+|  | recording | details | releases |
+| --- | --- | --- | --- |
+| <a id="weber-perpetuum-mobile-rondo-from-piano-sonata-no-1-in-c-major-op-24-rec-1"></a>1 | 29th Sep. 1908, Room 1, Hayes, England |  | **78s**: Gramophone Monarch W280, O35517 / 2653f<br>**CD**: Pearl GEMM CD 0102(2 set), Toshiba-Shinseido SGR 1501, Andante 2995(4 set) |
+
 ## Resources And Contributions
 
-Source resources include Youngrok Lee’s own records, All Classical Guide, Amazon USA and Japan, Japanese HMV, Japanese Tower Records, record-company catalogs, ArkivMusic, Philip Stuart’s Decca catalog, and the HMV DB database.
+Source resources include Youngrok Lee’s own records, All Classical Guide, Amazon USA and Japan, Japanese HMV, Japanese Tower Records, record-company catalogs, ArkivMusic, Philip Stuart’s Decca catalog, and the HMV DB database. The Haydn section source also links to [Images of Decca issues (posting)](http://fischer.egloos.com/4049843).
 
-The source acknowledges Chiu Chi Lin’s Backhaus discography, John Hunt, Jui-Yuan Yen, Philip Stuart, and additional individual contributors. The Decca *The Complete Backhaus* 46-LP set was excluded. The source notes that some online Philips and Decca dates for Philips 456 718-2 were incorrect, and that some Decca-set information was not the first priority because sources disagreed.
+The source acknowledges Chiu Chi Lin’s Backhaus discography, John Hunt, Jui-Yuan Yen, Philip Stuart, and additional individual contributors. The Decca *The Complete Backhaus* 46-LP set was excluded. The source notes that some online Philips and Decca dates for Philips 456 718-2 were incorrect, and that some Decca-set information was not the first priority because sources disagreed. The second source page notes that Chabrier, Daquin, Debussy, Dvorák, Falla, Gounod, Moszkowski, and Weber entries rely on Chiu Chi Lin’s Backhaus discography, based on John Hunt’s Backhaus LP anthology.
 
-Created: Dec. 1999. Last update: 1st Aug. 2025.
+Created: Dec. 1999. Last updates: part 1, 1st Aug. 2025; part 2, 22nd Jul. 2023.
 
 ## Rights Notice
 
