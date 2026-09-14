@@ -18,3 +18,9 @@ docs/.sass-cache/
 # Local environment files
 .env
 .env.*
+
+# Python distillation caches
+__pycache__/
+*.pyc
+scripts
+sources

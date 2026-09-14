@@ -10,6 +10,8 @@ recording variants.
 ## Discographies
 
 - [Friedrich Gulda](Friedrich%20Gulda/)
+- [Robert Casadesus](Robert%20Casadesus/)
+- [Walter Gieseking](Walter%20Gieseking/)
 - [Wilhelm Backhaus](Wilhelm%20Backhaus/)
 
 ## Styling
