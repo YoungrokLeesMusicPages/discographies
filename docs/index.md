@@ -10,6 +10,7 @@ recording variants.
 ## Discographies
 
 - [Friedrich Gulda](Friedrich%20Gulda/)
+- [Julius Katchen](Julius%20Katchen/)
 - [Robert Casadesus](Robert%20Casadesus/)
 - [Walter Gieseking](Walter%20Gieseking/)
 - [Wilhelm Backhaus](Wilhelm%20Backhaus/)
