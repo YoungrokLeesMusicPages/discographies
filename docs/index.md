@@ -10,8 +10,10 @@ recording variants.
 ## Discographies
 
 - [Friedrich Gulda](Friedrich%20Gulda/)
+- [György Sebök](Gy%C3%B6rgy%20Seb%C3%B6k/)
 - [Julius Katchen](Julius%20Katchen/)
 - [Robert Casadesus](Robert%20Casadesus/)
+- [Rudolf Serkin](Rudolf%20Serkin/)
 - [Walter Gieseking](Walter%20Gieseking/)
 - [Wilhelm Backhaus](Wilhelm%20Backhaus/)
 
