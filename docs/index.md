@@ -11,6 +11,7 @@ recording variants.
 
 - [Friedrich Gulda](Friedrich%20Gulda/)
 - [György Sebök](Gy%C3%B6rgy%20Seb%C3%B6k/)
+- [Helmut Walcha](Helmut%20Walcha/)
 - [Julius Katchen](Julius%20Katchen/)
 - [Robert Casadesus](Robert%20Casadesus/)
 - [Rudolf Serkin](Rudolf%20Serkin/)
