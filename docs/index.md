@@ -13,6 +13,7 @@ recording variants.
 - [György Sebök](Gy%C3%B6rgy%20Seb%C3%B6k/)
 - [Helmut Walcha](Helmut%20Walcha/)
 - [Julius Katchen](Julius%20Katchen/)
+- [Lili Kraus](Lili%20Kraus/)
 - [Robert Casadesus](Robert%20Casadesus/)
 - [Rudolf Serkin](Rudolf%20Serkin/)
 - [Walter Gieseking](Walter%20Gieseking/)
